@@ -7,14 +7,10 @@ const Navbar = () => {
 
 
     
-<div className='flex justify-center gap-80' style={{
-  background  : '#1f2937',
-  height : "70px",
-  alignItems : 'center'
-}}>
+<div className='flex justify-center gap-80 main-container' >
 
   <div>
-    <h1 className='text-2xl text-white'>Khalid</h1>
+    <h1 className='text-2xl text-white name'>Khalid</h1>
   </div>
 
 <div>
